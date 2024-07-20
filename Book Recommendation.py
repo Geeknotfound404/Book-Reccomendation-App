@@ -2,7 +2,6 @@
 
 # Book database (you can add more books here)
 books = {
-{
     "1": {"title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Classic"},
     "2": {"title": "The Hunger Games", "author": "Suzanne Collins", "genre": "Dystopian"},
     "3": {"title": "1984", "author": "George Orwell", "genre": "Dystopian"},
